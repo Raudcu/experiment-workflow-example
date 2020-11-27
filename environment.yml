@@ -1,0 +1,12 @@
+channels:
+  - plotly
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - pandas
+  - plotly
+  - matplotlib
+  - ipympl
+  - jupyter_contrib_nbextensions
